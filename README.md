@@ -17,10 +17,10 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image]
+![image](https://raw.githubusercontent.com/Aleksei-002/cypres.js/main/baseURL.png)
 
 2. Применение хуков beforeEach и afterEach
-![image]
+![image](https://raw.githubusercontent.com/Aleksei-002/cypres.js/main/before_after.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
 ![image]
