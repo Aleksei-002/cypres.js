@@ -23,10 +23,10 @@
 ![image](https://raw.githubusercontent.com/Aleksei-002/cypres.js/main/before_after.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image]
+![image](https://raw.githubusercontent.com/Aleksei-002/cypres.js/main/password_login.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image]
+![image](https://raw.githubusercontent.com/Aleksei-002/cypres.js/main/locators.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
